@@ -9,4 +9,4 @@ cd Wifi-Deauther
 # run the Wifi-Deauther:
 
 cd Wifi-Deauther
-./deauther
+./deauther.sh
